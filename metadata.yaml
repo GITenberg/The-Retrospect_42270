@@ -1,0 +1,30 @@
+_repo: The-Retrospect_42270
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cambridge, Ada
+    alias: Cross, Ada Cambridge
+    birthdate: 1844
+    deathdate: 1926
+    gutenberg_agent_id: '1403'
+    url: http://www.gutenberg.org/2009/agents/1403
+    wikipedia: http://en.wikipedia.org/wiki/Ada_Cambridge
+description: ''
+gutenberg_issued: '2013-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cambridge, Ada, 1844-1926 -- Anecdotes'
+- !lcc 'DA'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs'
+title: The Retrospect
+url: http://www.gutenberg.org/ebooks/42270
